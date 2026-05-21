@@ -1,7 +1,0 @@
-{
-  "version": "2.0.0",
-  "versionCode": 200,
-  "forceUpdate": false,
-  "url": "https://alissongdssouza.github.io/rota-do-lucro/index.html",
-  "changelog": "Versão 2.0\n- Modularização completa\n- Sistema de PIN/segurança\n- Backup e restauração\n- Filtros e busca\n- Metas financeiras\n- Relatórios mensais\n- Histórico de ações\n- Notificações inteligentes"
-}
